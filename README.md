@@ -25,6 +25,3 @@ Each project has its own directory. Navigate to a project and start the server:
 cd <project-folder>
 node server.js
 ```
-
-## License
-This project is open-source and available under the MIT License.
